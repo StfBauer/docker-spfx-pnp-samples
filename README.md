@@ -41,6 +41,8 @@ docker start spfx-jquery-cdn
 docker exec -it spfx-jquery-cdn /bin/bash
 ```
 
+## Additional information
+Additional information can be found in my blog post "[How to run SharePoint Framework Pattern and Practices Samples through Docker](http://www.n8d.at/blog/how-to-run-sharepoint-pattern-and-practices-samples-through-docker/)"
 
 ## Known issues
 There are some know issues on Windows documented on [Dockers Github page](https://github.com/docker/kitematic/wiki/Common-Issues-and-Fixes#windows-10).
