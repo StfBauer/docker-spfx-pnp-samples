@@ -4,8 +4,7 @@ Docker images recipe for running [SharePoint Framework Pattern and Practices sam
 
 
 ## Usage
-
-- In the HOSTS file on your host add:
+In the HOSTS file on your host add:
 ```
 127.0.0.1    spfx
 ```
